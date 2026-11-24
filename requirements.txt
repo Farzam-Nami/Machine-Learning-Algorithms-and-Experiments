@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn>=1.2
+torch
+torchvision
+gdown
+jupyter
